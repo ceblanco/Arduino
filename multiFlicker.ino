@@ -1,4 +1,6 @@
 //Multiple LED flicker by gotcha (2010)
+// http://www.instructables.com/id/Flicker-up-to-6-LEDs-with-Arduino
+// Modified to flicker 6 LEDs, adjusted flicker variation
 //
 //
 #include   <TrueRandom.h>   //Include the TrueRandom Library
